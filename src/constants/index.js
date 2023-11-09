@@ -40,6 +40,7 @@ import {
   app1,
   app2,
   app3,
+  app4,
   creativeAgency,
   portfolioForPhotography,
   
@@ -353,54 +354,54 @@ const projects = [
   // },
 
   
-  // {
-  //   name: "Women Safety App",
-  //   description:
-  //     "The Women Safety App, a cutting-edge mobile application, has been meticulously designed to empower and safeguard women by providing essential features that enhance personal security. In an era where safety is paramount, this app is dedicated to providing women with the tools and resources they need to navigate their daily lives confidently and securely.This powerful application offers a wide range of features aimed at enhancing the safety and well-being of women across various scenarios. It seamlessly integrates modern technology with user-friendly functionality to create a comprehensive solution.",
-  //   tags: [
-  //     {
-  //       name: "react native",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: app1,
-  //   source_code_link: "https://github.com/dev-mohsinmustafa",
-  //   live_url_link: "https://drive.google.com/file/d/1Ffqe4zL2g5YqTqp8-ZJO5vygFyGA2-nl/view?usp=sharing"
-  // },
+  {
+    name: "Women Safety App",
+    description:
+      "The Women Safety App, a cutting-edge mobile application, has been meticulously designed to empower and safeguard women by providing essential features that enhance personal security. In an era where safety is paramount, this app is dedicated to providing women with the tools and resources they need to navigate their daily lives confidently and securely.This powerful application offers a wide range of features aimed at enhancing the safety and well-being of women across various scenarios. It seamlessly integrates modern technology with user-friendly functionality to create a comprehensive solution.",
+    tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: app1,
+    source_code_link: "https://github.com/dev-mohsinmustafa",
+    live_url_link: "https://drive.google.com/file/d/1Ffqe4zL2g5YqTqp8-ZJO5vygFyGA2-nl/view?usp=sharing"
+  },
 
 
 
 
-  // {
-  //   name: "Income Expense Tracker App",
-  //   description:
-  //     "Welcome to the Income Expense Tracker, your all-in-one solution for financial mastery. Our React Native app simplifies monitoring income and expenses, offering an intuitive platform to empower your financial well-being.Effortlessly record finances, gain insights, set budgets, and achieve your financial goals. Take control of your money and make informed decisions for financial stability. Begin your journey to financial success with the Income Expense Tracker today.",
-  //   tags: [
-  //     {
-  //       name: "react native",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: app2,
-  //   source_code_link: "https://github.com/dev-mohsinmustafa",
-  //   live_url_link: "https://drive.google.com/file/d/1ZVd0qSDrKI7eja7H8z6TjHH9kDKCn_O9/view?usp=drive_link"
-  // },
+  {
+    name: "Income Expense Tracker App",
+    description:
+      "Welcome to the Income Expense Tracker, your all-in-one solution for financial mastery. Our React Native app simplifies monitoring income and expenses, offering an intuitive platform to empower your financial well-being.Effortlessly record finances, gain insights, set budgets, and achieve your financial goals. Take control of your money and make informed decisions for financial stability. Begin your journey to financial success with the Income Expense Tracker today.",
+    tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: app2,
+    source_code_link: "https://github.com/dev-mohsinmustafa",
+    live_url_link: "https://drive.google.com/file/d/1ZVd0qSDrKI7eja7H8z6TjHH9kDKCn_O9/view?usp=drive_link"
+  },
 
 
   // {
@@ -429,28 +430,28 @@ const projects = [
 
 
   
-  // {
-  //   name: "Jarvis AI Virtual Assistant App",
-  //   description:
-  //     "Welcome to the Time Management App, a powerful tool designed to help you master your time and productivity. This app is your personal assistant in the journey to efficient and effective time utilization.This app is the perfect tool for students, professionals, and anyone seeking to optimize their time, enhance productivity, and reduce stress. Take control of your schedule, prioritize tasks, and achieve your goals with the Time Management App. Start managing your time effectively today!",
-  //   tags: [
-  //     {
-  //       name: "react native",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "tailwind",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: app3,
-  //   source_code_link: "https://github.com/dev-mohsinmustafa",
-  //   live_url_link: ""
-  // },
+  {
+    name: "Voice Assistant App with ChatGPT & DALL-E | AI Image Creation",
+    description:
+      "Introducing our Voice Assistant App powered by ChatGPT and DALL-E, a groundbreaking fusion of artificial intelligence that brings innovation and creativity to the forefront. This React Native app is your all-encompassing digital companion, capable of conversational prowess and artistic image generation. Currently working on it.",
+    tags: [
+      {
+        name: "react native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: app4,
+    source_code_link: "https://github.com/dev-mohsinmustafa",
+    live_url_link: ""
+  },
 
 
 
@@ -579,74 +580,74 @@ const projects = [
   
   
 
-  {
-    name: "Car Rent",
-    description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/dev-mohsinmustafa",
-    live_url_link: "https://mohsin-creative-agency-website.vercel.app/"
-  },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/dev-mohsinmustafa",
-    live_url_link: "https://jessie-landing-page-mohsin-mustafa.vercel.app/"
+  // {
+  //   name: "Car Rent",
+  //   description:
+  //     "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: carrent,
+  //   source_code_link: "https://github.com/dev-mohsinmustafa",
+  //   live_url_link: "https://mohsin-creative-agency-website.vercel.app/"
+  // },
+  // {
+  //   name: "Job IT",
+  //   description:
+  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "restapi",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "scss",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: jobit,
+  //   source_code_link: "https://github.com/dev-mohsinmustafa",
+  //   live_url_link: "https://jessie-landing-page-mohsin-mustafa.vercel.app/"
 
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/dev-mohsinmustafa",
-    live_url_link: "http://www.mohsinmustafa.surge.sh/"
+  // },
+  // {
+  //   name: "Trip Guide",
+  //   description:
+  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/dev-mohsinmustafa",
+  //   live_url_link: "http://www.mohsinmustafa.surge.sh/"
 
-  },
+  // },
 
   
 

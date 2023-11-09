@@ -54,6 +54,7 @@ import web5 from "./crudOperation.png";
 import app1 from './womenSafety.png';
 import app2 from './incomeExpenseTracker.png';
 import app3 from './timeManagement.png';
+import app4 from './jarvis.png';
 import creativeAgency from "./creativeAgency.png";
 import portfolioForPhotography from "./portfolioForPhotography.png";
 
@@ -107,6 +108,7 @@ export {
   app1,
   app2,
   app3,
+  app4,
   creativeAgency,
   portfolioForPhotography,
 };
